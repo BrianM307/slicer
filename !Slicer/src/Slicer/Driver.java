@@ -1,4 +1,4 @@
-
+package Slicer;
 
 import javax.swing.JFrame;
 
